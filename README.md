@@ -9,7 +9,7 @@ OS X install gitstats
 
 有更详细安装方法 http://gitstats.sourceforge.net/
 
-2) Install gnuplot 5.0.1 on OSX
+2) brew install gnuplot
 
 To minimise my effort, I tend to use package managers to install command line tools as much as possible.
 For OS X I recommend using homebrew. Installing gnuplot with homebrew is as easy as typing: brew install gnuplot
